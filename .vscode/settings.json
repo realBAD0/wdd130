@@ -57,5 +57,9 @@
   "chat.disableAIFeatures": false,
   "chat.commandCenter.enabled": false,
   "inlineChat.accessibleDiffView": "off",
-  "terminal.integrated.initialHint": false
+  "terminal.integrated.initialHint": false,
+  "cSpell.words": [
+    "Kudakwashe",
+    "Rusere"
+  ]
 }
